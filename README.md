@@ -1,4 +1,11 @@
 # Poisson-s-Equation-Project
+ # Contributors
+ 1) BOULOUZ HAMZA
+ 2) SARRAR MOHCIN
+ 3) MOATADID ISMAIL
+ 4) BAJJOU ABDERRAZAK
+ # Supervisor
+ KISSAMI IMAD
 
    Solving the Poisson's equation discretized on the [0,1]x[0,1] domain
    using the finite difference method and a Jacobi's iterative solver.
@@ -19,16 +26,9 @@
  *   hx is the grid spacing along x and hy is the grid spacing along y.
  *    hx = 1./(ntx+1)
  *    hy = 1./(nty+1)
- *
  ###   On each process, we need to:
    1) Split up the domain
    2) Find our 4 neighbors
    3) Exchange the interface points
    4) Calculate u
- # Contributors
- 1) BOULOUZ HAMZA
- 2) SARRAR MOHCIN
- 3) MOATADID ISMAIL
- 4) BAJJOU ABDERRAZAK
- # Supervisor
- KISSAMi IMAD
+
