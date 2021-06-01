@@ -25,3 +25,10 @@
    2) Find our 4 neighbors
    3) Exchange the interface points
    4) Calculate u
+ # Contributors
+ 1) BOULOUZ HAMZA
+ 2) SARRAR MOHCIN
+ 3) MOATADID ISMAIL
+ 4) BAJJOU ABDERRAZAK
+ # Supervisor
+ KISSAMi IMAD
