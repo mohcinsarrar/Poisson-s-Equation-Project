@@ -1,14 +1,14 @@
 # Poisson-s-Equation-Project
 
- *   Solving the Poisson's equation discretized on the [0,1]x[0,1] domain
- *   using the finite difference method and a Jacobi's iterative solver.
- *
- *   Delta u = f(x,y)= 2*(x*x-x+y*y -y)
- *   u equal 0 on the boudaries
- *   The exact solution is u = x*y*(x-1)*(y-1)
- *
- *   The u value is :
- *    coef(1) = (0.5*hx*hx*hy*hy)/(hx*hx+hy*hy)
+   Solving the Poisson's equation discretized on the [0,1]x[0,1] domain
+   using the finite difference method and a Jacobi's iterative solver.
+ 
+    Delta u = f(x,y)= 2*(x*x-x+y*y -y)
+    u equal 0 on the boudaries
+    The exact solution is u = x*y*(x-1)*(y-1)
+ 
+    The u value is :
+     coef(1) = (0.5*hx*hx*hy*hy)/(hx*hx+hy*hy)
  *    coef(2) = 1./(hx*hx)
  *    coef(3) = 1./(hy*hy)
  *
