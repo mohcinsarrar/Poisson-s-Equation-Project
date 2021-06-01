@@ -1,15 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Mon Dec 21 09:34:21 2020
-
-Created by :
-
-SARRAR Mohcin
-BOULLOUZ Hamza
-MOATADID Ismail
-BAJJOU Abderrazzak
-
 
 /*
  *   Solving the Poisson's equation discretized on the [0,1]x[0,1] domain
