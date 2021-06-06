@@ -1,4 +1,4 @@
-# Poisson-s-Equation-Project
+# Poisson's-Equation-Project
  # Contributors
  1) BOULOUZ HAMZA
  2) SARRAR MOHCIN
